@@ -8,9 +8,9 @@ export default function About() {
       <p>
         <div>
           <ul className='iconList'>
-        <img className="img-icon" href="https://note-taker-capp.herokuapp.com/" src={require("../images/office_icon.png")} width="75" height="75" alt=""/>
-        <img className="img-icon" href="#" src={require("../images/office_icon.png")} width="75" height="75" alt="" />
-        <img className="img-icon" href="#" src={require("../images/office_icon.png")} width="75" height="75" alt="" />
+        <a href="https://note-taker-capp.herokuapp.com/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt=""/></a>
+        <a href="https://note-taker-capp.herokuapp.com/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt="" /></a>
+        <a href="https://note-taker-capp.herokuapp.com/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt="" /></a>
         </ul>
         </div>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
