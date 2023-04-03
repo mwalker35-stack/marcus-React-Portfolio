@@ -5,7 +5,7 @@ export default function Home() {
     <div className='page-card'>
       <h1>Home Page</h1>
       <p>
-        <img className="img-fluid rounded mx-auto d-block" src={require("../images/marcus profile pic.jpg")} width="450" height="350" alt="" /> 
+        <img className="img-fluid mx-auto d-block" src={require("../images/marcus profile pic.jpg")} width="450" height="350" alt="" /> 
         
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi

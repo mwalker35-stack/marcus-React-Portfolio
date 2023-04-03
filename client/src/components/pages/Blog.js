@@ -5,7 +5,7 @@ export default function Blog() {
     <div className='page-card'>
       <h1>Resume</h1>
       <p>
-      <a className='resumeLink' href={require("../images/rresume.pdf")}>Marcus Resume</a><br></br>
+      <a className='resumeLink' target="_blank"  rel="noopener noreferrer" href={require("../images/rresume.pdf")}>Marcus Resume</a><br></br>
 
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu

@@ -1,26 +1,40 @@
 .page-card {
     text-align: center;
+    margin: 0%;
   }
 
   .card-title {
-    font-size: 30px;
-    margin-right: 50px;
+    font-size: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
 
+  .card {
+    border: none;
+  }
+
   .img-icon {
-    margin-right: 50px;
+    margin-right: 60px;
   }
 
   .resumeLink{
     font-size: 25px;
   }
 
+  .contactForm {
+    margin-top: 2%;
+    text-align: center;
+    display: inline-block;
+    height: 250px;
+    width: 650px;
+  }
+
   .img-fluid {
-    border-radius: 50px;
+    border-color: black;
+    border-width: 50px;
+    border-radius: 170px;
     height: 350px;
     width: 350px;
   }
@@ -31,34 +45,40 @@
   }
  
   .btn-primary {
-    background-color: #282c34;
     margin-right: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
+  
+  .nav-tabs {
+    background-color: #d4ddf3;
+    min-height: 6vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    font-size: calc(10px + 2vmin);
+    color:white;
+  }
 
+  .footline{
+    margin-top: 2%;
+    font-size: 20px;
+  }
+
+  
+  .App-link {
+    color: #4d5baa;
+  }
+  
   @media (prefers-reduced-motion: no-preference) {
     .App-logo {
       animation: App-logo-spin infinite 20s linear;
     }
   }
   
-  .nav-tabs {
-    background-color: #282c34;
-    min-height: 10vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
-  }
-  
-  .App-link {
-    color: #61dafb;
-  }
   
   @keyframes App-logo-spin {
     from {
