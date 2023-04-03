@@ -1,10 +1,18 @@
 import React from 'react';
 
+
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className='page-card'>
+      <h1>Projects</h1>
       <p>
+        <div>
+          <ul className='iconList'>
+        <img className="img-icon" href="https://note-taker-capp.herokuapp.com/" src={require("../images/office_icon.png")} width="75" height="75" alt=""/>
+        <img className="img-icon" href="#" src={require("../images/office_icon.png")} width="75" height="75" alt="" />
+        <img className="img-icon" href="#" src={require("../images/office_icon.png")} width="75" height="75" alt="" />
+        </ul>
+        </div>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
         mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non

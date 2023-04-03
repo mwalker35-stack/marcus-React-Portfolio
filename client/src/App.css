@@ -1,21 +1,53 @@
-.App {
+.page-card {
     text-align: center;
   }
-  
+
+  .card-title {
+    font-size: 30px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .img-icon {
+    margin-right: 50px;
+  }
+
+  .resumeLink{
+    font-size: 25px;
+  }
+
+  .img-fluid {
+    border-radius: 50px;
+    height: 350px;
+    width: 350px;
+  }
+
   .App-logo {
     height: 40vmin;
     pointer-events: none;
   }
-  
+ 
+  .btn-primary {
+    background-color: #282c34;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
   @media (prefers-reduced-motion: no-preference) {
     .App-logo {
       animation: App-logo-spin infinite 20s linear;
     }
   }
   
-  .App-header {
+  .nav-tabs {
     background-color: #282c34;
-    min-height: 100vh;
+    min-height: 10vh;
     display: flex;
     flex-direction: column;
     align-items: center;
