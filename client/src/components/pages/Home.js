@@ -7,16 +7,7 @@ export default function Home() {
       <p>
         <img className="img-fluid mx-auto d-block" src={require("../images/marcus profile pic.jpg")} width="450" height="350" alt="" /> 
         
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+        Hi I'm Marcus Walker. I recently completed a Full Stack web development bootcamp and created a GitHub to show case my skills. My repositories contain projects that I have built using HTML, CSS, JavaScript, Node.js, Express, React, and MongoDB. These projects demonstrate my ability to create responsive & interactive web applications from scratch. My repositories were designed to help others who are learning full stack web development or who are interested in seeing examples of real-world projects.
       </p>
     
     </div>

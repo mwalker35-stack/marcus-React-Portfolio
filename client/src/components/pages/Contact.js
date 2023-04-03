@@ -8,23 +8,20 @@ export default function Contact() {
         <form className='contactForm'>
           <div class="form-row">
             <div class="col">
-              <input type="text" class="form-control" placeholder="First name" />
-            </div>
-            <div class="col">
-              <input type="text" class="form-control" placeholder="Last name" />
+              <input type="text" class="form-control" placeholder="Full Name" />
             </div>
             <div>
             <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Company Name" />
             </div>
           </div>
           <div className="form-group">
-            <label for="exampleFormControlInput1">Email address</label>
             <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
           </div>
           <div className="form-group">
             <label for="exampleFormControlTextarea1">Message</label>
-            <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <textarea placeholder='type message' className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
           </div>
+          <button type="submit" class="btn btn-primary">Send</button>
         </form>
       </div>
     </div>
