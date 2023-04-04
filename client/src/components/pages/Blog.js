@@ -5,7 +5,7 @@ export default function Blog() {
     <div className='page-card'>
       <h1>Resume</h1>
       <p>
-      <a className='resumeLink' target="_blank"  rel="noopener noreferrer" href={require("../images/rresume.pdf")}>Marcus Resume</a><br></br>
+      <a className='resumeLink' target="_blank"  rel="noopener noreferrer" href={require("../images/TechResume.pdf")}>Marcus Resume</a><br></br>
 
         Passionate and solutions-driven full stack web developer with a web development certificate from Georgia Tech. 
         Experience in MERN stack web design utilizing a combination of strong 
