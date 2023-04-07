@@ -22,6 +22,7 @@
   react
 
   ## Usage:
+  To deploy updated app: npm run deploy
   If in node.js in index.js npm start 
 
   ## License:
