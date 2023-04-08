@@ -10,7 +10,7 @@ export default function About() {
           <ul className='iconList'>
         <a href="https://note-taker-capp.herokuapp.com/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt=""/></a>
         <a href="https://mwalker35-stack.github.io/work-day-schedular/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt="" /></a>
-        <a href="https://note-taker-capp.herokuapp.com/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt="" /></a>
+        <a href="https://mwalker35-stack.github.io/animated-spork/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt=""/></a>
         </ul>
         </div>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
