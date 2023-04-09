@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/marcus-React-Portfolio/static/css/main.f3c1537e.css",
+    "main.css": "/marcus-React-Portfolio/static/css/main.24d1e7f3.css",
     "main.js": "/marcus-React-Portfolio/static/js/main.9354a58f.js",
     "static/media/TechResume.pdf": "/marcus-React-Portfolio/static/media/TechResume.5f1ce5ceea1b725a647b.pdf",
     "static/media/marcus profile pic.jpg": "/marcus-React-Portfolio/static/media/marcus profile pic.603d99045d7e5829cce9.jpg",
     "static/media/office_icon.png": "/marcus-React-Portfolio/static/media/office_icon.443385d080bbee7be0f7.png",
     "index.html": "/marcus-React-Portfolio/index.html",
-    "main.f3c1537e.css.map": "/marcus-React-Portfolio/static/css/main.f3c1537e.css.map",
+    "main.24d1e7f3.css.map": "/marcus-React-Portfolio/static/css/main.24d1e7f3.css.map",
     "main.9354a58f.js.map": "/marcus-React-Portfolio/static/js/main.9354a58f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3c1537e.css",
+    "static/css/main.24d1e7f3.css",
     "static/js/main.9354a58f.js"
   ]
 }
