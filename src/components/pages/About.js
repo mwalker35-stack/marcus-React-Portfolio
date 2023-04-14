@@ -8,17 +8,32 @@ export default function About() {
       <p>
         <div>
           <ul className='iconList'>
-        <a href="https://note-taker-capp.herokuapp.com/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt=""/></a>
-        <a href="https://mwalker35-stack.github.io/work-day-schedular/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt="" /></a>
-        <a href="https://mwalker35-stack.github.io/animated-spork/"><img className="img-icon" src={require("../images/office_icon.png")} width="75" height="75" alt=""/></a>
+        <a href="https://note-taker-capp.herokuapp.com/" target="_blank"  rel="noopener noreferrer"><img className="img-icon" src={require("../images/notetaker.png")} width="400" height="300" alt=""/></a>
+        <a href="https://mwalker35-stack.github.io/work-day-schedular/" target="_blank"  rel="noopener noreferrer"><img className="img-icon" src={require("../images/workdayscheduler.png")} width="400" height="300" alt=""/></a>
+        <a href="https://mwalker35-stack.github.io/animated-spork/" target="_blank"  rel="noopener noreferrer"><img className="img-icon" src={require("../images/moviedating .png")} width="400" height="300" alt=""/></a>
         </ul>
         </div>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+Project 1: Note Taker
+
+Technologies used: Node.js, JavaScript, HTML, CSS
+Project Overview: An online note taker website that allows users to write and save notes, view all of their notes. The website is built using local storage for storing notes and user information.
+Project Features: The website includes a add notes button feature and trash can button. Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control. 
+<br />
+<br />
+<br />
+Project 2: Work Day Scheduler
+
+Technologies used: JavaScript, HTML, CSS
+Project Overview: An online Day Scheduler website that allows users to write and save to a one page schedular, view all of day at a glance. The website is built using local storage for storing notes and user information.
+Project Features: The website includes a save notes button feature and color changing background for passed time on the Scheduler. Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control. 
+<br />
+<br />
+<br />
+Project 2: Work Day Scheduler
+
+Technologies used: JavaScript, HTML, CSS, API's
+Project Overview: An online Day Scheduler website that allows users to write and save to a one page schedular, view all of day at a glance. The website is built using local storage for storing notes and user information.
+Project Features: The website includes a save notes button feature and color changing background for passed time on the Scheduler. Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control. 
       </p>
     </div>
   );
