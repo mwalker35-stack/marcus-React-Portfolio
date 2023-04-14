@@ -17,6 +17,7 @@ export default function About() {
             <b>Technologies used:</b> Node.js, JavaScript, HTML, CSS<br/><br/>
             <b>Project Overview:</b> An online note taker website that allows users to write and save notes, view all of their notes. The website is built using local storage for storing notes and user information.<br/><br/>
             <b>Project Features:</b> The website includes a add notes button feature and trash can button. Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br/><br/>
+            <b>Development Process:</b> Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br/><br/>
           </p>
         </div>
 
@@ -31,6 +32,7 @@ export default function About() {
 
             <b>Project Overview:</b> An online Day Scheduler website that allows users to write and save to a one page schedular, view all of day at a glance. The website is built using local storage for storing notes and user information.<br/><br />
             <b>Project Features:</b> The website includes a save notes button feature and color changing background for passed time on the Scheduler. Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br/><br/>
+            <b>Development Process:</b> Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br/><br/>
           </p>
         </div>
 
@@ -48,7 +50,10 @@ export default function About() {
             <b>Future Plans:</b> Future plans for the project include adding more categories, allowing users to save movies to a watchlist, and implementing social media sharing and login functionality.<br/><br/>
           </p>
         </div>
+        {/* additonal project can go here! */}
+        
           </section>
     </div>
+    
   );
 }

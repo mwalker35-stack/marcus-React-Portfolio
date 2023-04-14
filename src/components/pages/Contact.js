@@ -6,12 +6,13 @@ export default function Contact() {
       <h1>Contact Me</h1>
       <div>
         <form className='contactForm'>
+        {/* <form className='contactForm' onSubmit={handleSubmit} action="/api/send-email" method="post"> */}
           <div class="form-row">
             <div class="col">
               <input type="text" class="form-control" placeholder="Full Name" />
             </div>
             <div>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Company Name" />
+            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Company Name" />
             </div>
           </div>
           <div className="form-group">
@@ -26,4 +27,4 @@ export default function Contact() {
       </div>
     </div>
   );
-}
+} 
