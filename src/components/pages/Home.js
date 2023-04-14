@@ -3,7 +3,7 @@ import React from 'react';
 export default function Home() {
   return (
     <div className='page-card'>
-      <h1>Home Page</h1>
+      <h1>About Me</h1>
       <p>
         <img className="img-fluid mx-auto d-block" src={require("../images/marcus profile pic.jpg")} width="450" height="350" alt="" /> 
         

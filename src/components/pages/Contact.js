@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
   return (
     <div className='page-card'>
-      <h1>Contact Page</h1>
+      <h1>Contact Me</h1>
       <div>
         <form className='contactForm'>
           <div class="form-row">
