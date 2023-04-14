@@ -35,5 +35,5 @@
 
   ## Questions:
   If you have questions please Email: mwalke35@yahoo.com<br />
-  See: GitHub:  (https://github.com/mwalker35-stack)<br />
+  See: GitHub:  (https://mwalker35-stack.github.io/marcus-React-Portfolio/)<br />
   ![alt text](./src/components/images/PortfolioScreen.png)
