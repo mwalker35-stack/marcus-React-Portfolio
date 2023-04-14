@@ -29,11 +29,14 @@ Project Features: The website includes a save notes button feature and color cha
 <br />
 <br />
 <br />
-Project 2: Work Day Scheduler
+Project 3: Movie Minder
 
 Technologies used: JavaScript, HTML, CSS, API's
-Project Overview: An online Day Scheduler website that allows users to write and save to a one page schedular, view all of day at a glance. The website is built using local storage for storing notes and user information.
-Project Features: The website includes a save notes button feature and color changing background for passed time on the Scheduler. Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control. 
+Project Overview: An online most poplular movies website that allows users to vote a thumbs up or thumbs down to select a movie date for the night. After selecting a genre a prompt to vote appears. The website is built using HTML, API calls, CSS, Javascript.
+Project Features: Movie voting after selecting a genre and a list of movies in this section.
+Development Process: Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control. 
+Future Plans: Future plans for the project include adding more categories, allowing users to save movies to a watchlist, and implementing social media sharing and login functionality.
+
       </p>
     </div>
   );
