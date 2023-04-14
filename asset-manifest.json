@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marcus-React-Portfolio/static/css/main.24d1e7f3.css",
-    "main.js": "/marcus-React-Portfolio/static/js/main.c7b8ef42.js",
+    "main.js": "/marcus-React-Portfolio/static/js/main.99156eeb.js",
     "static/media/moviedating .png": "/marcus-React-Portfolio/static/media/moviedating .a65d696d0431732a3ea5.png",
     "static/media/TechResume.pdf": "/marcus-React-Portfolio/static/media/TechResume.5f1ce5ceea1b725a647b.pdf",
     "static/media/workdayscheduler.png": "/marcus-React-Portfolio/static/media/workdayscheduler.f6f91e17936fbdf1c619.png",
@@ -9,10 +9,10 @@
     "static/media/notetaker.png": "/marcus-React-Portfolio/static/media/notetaker.72cb34370e8164ea7171.png",
     "index.html": "/marcus-React-Portfolio/index.html",
     "main.24d1e7f3.css.map": "/marcus-React-Portfolio/static/css/main.24d1e7f3.css.map",
-    "main.c7b8ef42.js.map": "/marcus-React-Portfolio/static/js/main.c7b8ef42.js.map"
+    "main.99156eeb.js.map": "/marcus-React-Portfolio/static/js/main.99156eeb.js.map"
   },
   "entrypoints": [
     "static/css/main.24d1e7f3.css",
-    "static/js/main.c7b8ef42.js"
+    "static/js/main.99156eeb.js"
   ]
 }
