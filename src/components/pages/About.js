@@ -5,7 +5,22 @@ export default function About() {
   return (
     <div className='row'>
       <h1 style={{textAlign: 'center'}}>Projects</h1>
-      <section>
+      <section><br/><br/><br/><br/>
+
+      <div className='column'>
+          <a href="https://chat-social-4-6-22.herokuapp.com/#home" target="_blank" rel="noopener noreferrer" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%'}}>
+            <img className="img-icon" src={require("../images/ChatSocial.png")} width="400" height="300" alt=""/>
+          </a>
+          <p>
+            <h2>Chat Social</h2> <br/>
+
+            <b>Technologies used:</b> MongoDB, React, Socket.io, JavaScript<br/><br/>
+            <b>Project Overview:</b> An online Chat app allows users to connect in chat rooms of different topics. The website is built using React, CSS, Javascript, MongoDB.<br /><br/>
+            <b>Project Features:</b> Movie voting after selecting a genre and a list of movies in this section.<br/><br/>
+            <b>Development Process:</b> Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br/><br/>
+            <b>Future Plans:</b> Future plans for the project include, set emoji's to each room, allowing users to have multiple chat rooms open, and implementing social media sharing and login functionality.<br/><br/>
+          </p>
+        </div>
 
       <div className='column'>
           <a href="https://note-taker-capp.herokuapp.com/" target="_blank" rel="noopener noreferrer" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%'}}>
@@ -50,6 +65,8 @@ export default function About() {
             <b>Future Plans:</b> Future plans for the project include adding more categories, allowing users to save movies to a watchlist, and implementing social media sharing and login functionality.<br/><br/>
           </p>
         </div>
+
+
         {/* additonal project can go here! */}
         
           </section>

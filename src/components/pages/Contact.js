@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
   return (
     <div className='page-card'>
-      <h1>Contact Me</h1>
+      <h1>Contact Marcus</h1>
       <div>
         <form className='contactForm'>
         {/* <form className='contactForm' onSubmit={handleSubmit} action="/api/send-email" method="post"> */}
