@@ -12,7 +12,7 @@ export default function About() {
             <img className="img-icon" src={require("../images/just tech gif Jul 16, 2023 3_40 PM.gif")} width="400" height="300" alt="" />
           </a>
           <p>
-            <h2>Chat Social</h2> <br />
+            <h2>Just Tech News</h2> <br />
 
             <b>Technologies used:</b> Python, Flask, SQLAlchemy, PyMySQL, bcrypt, python-dotenv, Gunicorn<br /><br />
             <b>Project Overview:</b> Just Tech News, lets users submit links to tech-related articles, comment on other users' articles, and upvote articles for points.<br /><br />
@@ -23,26 +23,11 @@ export default function About() {
         </div>
 
         <div className='column'>
-          <a href="https://chat-social-4-6-22.herokuapp.com/#home" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
-            <img className="img-icon" src={require("../images/ChatSocial.png")} width="400" height="300" alt="" />
-          </a>
-          <p>
-            <h2>Just Tech News</h2> <br />
-
-            <b>Technologies used:</b> MongoDB, React, Socket.io, JavaScript<br /><br />
-            <b>Project Overview:</b> An online Chat app allows users to connect in chat rooms of different topics. The website is built using React, CSS, Javascript, MongoDB.<br /><br />
-            <b>Project Features:</b> Movie voting after selecting a genre and a list of movies in this section.<br /><br />
-            <b>Development Process:</b> Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br /><br />
-            <b>Future Plans:</b> Future plans for the project include, set emoji's to each room, allowing users to have multiple chat rooms open, and implementing social media sharing and login functionality.<br /><br />
-          </p>
-        </div>
-
-        <div className='column'>
           <a href="https://bit.ly/3JBuMfn" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
             <img className="img-icon" src={require("../images/deepthought gif 16, 2023 4_56 PM.gif")} width="400" height="300" alt="" />
           </a>
           <p>
-            <h2>Deep Thoughts </h2><br />
+            <h2>Deep Thoughts</h2><br />
 
             <b>Technologies used:</b> React, AWS, Multer, Node.js, UUID, NGINX, MongoDB, Express.js<br /><br />
             <b>Project Overview:</b> An online thoughts forum website that allows users to write a thought and add an image view all of a users thoughts. The website is built using React, DynamoDB, S3 bucket for storing objects and DynamoDB for NoSQL key-value and document database information.<br /><br />
@@ -52,8 +37,23 @@ export default function About() {
         </div>
 
         <div className='column'>
+          <a href="https://chat-social-4-6-22.herokuapp.com/#home" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
+            <img className="img-icon" src={require("../images/ChatSocial.png")} width="400" height="300" alt="" />
+          </a>
+          <p>
+            <h2>Chat social</h2> <br />
+
+            <b>Technologies used:</b> MongoDB, React, Socket.io, JavaScript<br /><br />
+            <b>Project Overview:</b> An online Chat app allows users to connect in chat rooms of different topics. The website is built using React, CSS, Javascript, MongoDB.<br /><br />
+            <b>Project Features:</b> Instant Chat web app for online chatting, Join a chat room and socialize!.<br /><br />
+            <b>Development Process:</b> Agile development methodology was used, with daily stand-ups and weekly sprints. Git was used for version control.<br /><br />
+            <b>Future Plans:</b> Set emoji's to each room, allowing users to have multiple chat rooms open, and implementing social media sharing.<br /><br />
+          </p>
+        </div>
+
+        <div className='column'>
           <a href="https://mwalker35-stack.github.io/work-day-schedular/" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100%' }}>
-            <img className="img-icon" src={require("../images/workdayscheduler.png")} width="400" height="300" alt="" />
+            <img className="img-icon" src={require("../images/workDay gif_ Jul 16, 2023 9_01 PM.gif")} width="400" height="300" alt="" />
           </a>
           <p>
             <h2>Work Day Scheduler</h2> <br />
