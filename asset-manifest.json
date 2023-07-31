@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/marcus-React-Portfolio/static/css/main.be9cba86.css",
-    "main.js": "/marcus-React-Portfolio/static/js/main.5c745db6.js",
+    "main.js": "/marcus-React-Portfolio/static/js/main.1d130ceb.js",
     "static/media/deepthought gif 16, 2023 4_56 PM.gif": "/marcus-React-Portfolio/static/media/deepthought gif 16, 2023 4_56 PM.cf864181d8cdd429bc75.gif",
     "static/media/just tech gif Jul 16, 2023 3_40 PM.gif": "/marcus-React-Portfolio/static/media/just tech gif Jul 16, 2023 3_40 PM.c475693dad6e4085bac8.gif",
     "static/media/workDay gif_ Jul 16, 2023 9_01 PM.gif": "/marcus-React-Portfolio/static/media/workDay gif_ Jul 16, 2023 9_01 PM.2f3ea4a44d78691bade7.gif",
     "static/media/moviedating .png": "/marcus-React-Portfolio/static/media/moviedating .a65d696d0431732a3ea5.png",
     "static/media/ChatSocial.png": "/marcus-React-Portfolio/static/media/ChatSocial.ccfc6c82ba1d34510c8d.png",
-    "static/media/MERNMinimalistResume.pdf": "/marcus-React-Portfolio/static/media/MERNMinimalistResume.36c673672b50091c84c2.pdf",
+    "static/media/Web Professional Resume.png": "/marcus-React-Portfolio/static/media/Web Professional Resume.44f7e6b3044fb2b4e1df.png",
     "static/media/marcus profile pic.jpg": "/marcus-React-Portfolio/static/media/marcus profile pic.603d99045d7e5829cce9.jpg",
     "index.html": "/marcus-React-Portfolio/index.html",
     "main.be9cba86.css.map": "/marcus-React-Portfolio/static/css/main.be9cba86.css.map",
-    "main.5c745db6.js.map": "/marcus-React-Portfolio/static/js/main.5c745db6.js.map"
+    "main.1d130ceb.js.map": "/marcus-React-Portfolio/static/js/main.1d130ceb.js.map"
   },
   "entrypoints": [
     "static/css/main.be9cba86.css",
-    "static/js/main.5c745db6.js"
+    "static/js/main.1d130ceb.js"
   ]
 }
